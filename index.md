@@ -5,6 +5,7 @@ Current graduate student at the University of Rhode Island. Studying oceanograph
 ---
 ### Education
 B.S. in Oceanography, _University of Washington_
+
 M.S. in Physical Oceanography, _University of Rhode Island, in progress_
 
 ---
