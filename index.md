@@ -1,24 +1,21 @@
 ## Bio
 
+Current graduate student at the University of Rhode Island. Studying oceanography - a life long dream...
+
 ---
 ### Education
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+B.S. in Oceanography, _University of Washington_
+M.S. in Physical Oceanography, _University of Rhode Island, in progress_
 
 ---
 ### Work Experience
-
+United States Coast Guard _(2018-present)_
 
 ---
 ### Recent Projects
-
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+Freshwater Budget in the Amundsen Sea, Antarctica. _GeoTracerKitchen, Brice Loose_
 
 ---
-
-
 
 
 ---

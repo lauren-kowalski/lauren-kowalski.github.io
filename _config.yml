@@ -1,10 +1,10 @@
-title: <Your Name Here> # your name (or website title) here
-logo: "/images/joker_logo.jpg?raw=true" # your photo (or logo) here
+title: Lauren Kowalski  # your name (or website title) here
+logo: "/images/lakheadshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Graduate Student in... 
-  <br><br>
+  Physical Oceanography
   Department of ...
-  <br><br>
+  Oceanography
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
